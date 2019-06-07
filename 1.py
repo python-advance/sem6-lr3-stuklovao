@@ -74,5 +74,5 @@ plt.plot(x1, num_y1, 'b')
 print(numpy_t0, numpy_t1)
 
 
-fig = plt.plot(x, y, 'g*') 
-fig1 = plt.plot(x1, y1, 'y')
+fig1 = plt.plot(x, y, 'g*') 
+fig2 = plt.plot(x1, y1, 'y')
